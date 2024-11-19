@@ -1,0 +1,169 @@
+@media only screen and (max-width: 1260px) {
+    .client-testimonials-slider {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+    .awards-recognition-section .awards-recognition-colum h3 {
+        font-size: 24px;
+        line-height: 30px;
+    } 
+    .hero-section .hero-row .hero-content {
+        padding-right: 30px;
+    }
+    .trust-metrics-left-colum .colum-number-box {
+        padding: 0 5px;
+    }
+    .trust-metrics-right-colum {
+        padding: 30px 20px;
+    }
+}
+@media only screen and (max-width: 1023px) {
+    .m-menu-btn {
+        display: block;
+    }
+    .site-menu {
+        position: absolute;
+        top: 100%;
+        background: linear-gradient(90deg, rgba(241, 241, 241, 1) 0%, rgba(255, 255, 255, 1) 100%);
+        width: 100%;
+        left: 0;
+        padding: 20px;
+        border-radius: 10px;
+        display: none;
+    }
+    .header-section .nav ul li {
+        display: block;
+    }
+    .header-section .nav ul li a:not(.gs-btn ) {
+        padding: 15px 10px;
+    }
+    .header-section .nav ul li a.gs-btn {
+        display: inline-block;
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner .our-services-box h3 {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .hero-section .hero-row .hero-content h1 {
+        font-size: 40px;
+        line-height: 50.75px;
+        margin: 0 0 30px 0;
+    }
+    .hero-section .hero-row .hero-content .hero-btn {
+        margin-top: 30px;
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner.ppc-box .our-services-box, .our-services-section .our-services-row .our-services-left-colum .our-services-inner.whatsapp-marketing-box .our-services-box {
+        width: 90%;
+    }
+    .trust-metrics-left-colum .colum-number-box .number-box {
+        width: 90px;
+        height: 90px;
+        font-size: 24px;
+        line-height: 31.83px;
+        margin-bottom: 20px;
+    }
+    .growth-patners-inner {
+        padding: 50px 30px;
+    }
+    .growth-patners-right-logos {
+        padding-left: 60px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .client-testimonials-slider {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .hero-section .hero-row .hero-content {
+        width: 100%;
+        padding-right: 0px;
+        margin-bottom: 30px;
+    }
+    .hero-section .hero-row .hero-img {
+       display: none;
+    }
+    .our-impact-colum-left {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .our-impact-colum-right {
+        width: 100%;
+    }
+    .trust-metrics-left-colum {
+        width: 100%;
+        margin-bottom: 30px;
+        gap: 20px 0;
+    }
+    .trust-metrics-left-colum .colum-number-box {
+        width: 50%;
+    }
+    .trust-metrics-right-colum {
+        width: 100%;
+    }
+    .our-services-section .our-services-row .our-services-left-colum {
+        width: 100%;
+    }
+    .our-services-section .our-services-row .our-services-right-colum {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .our-impact-growth-results .results-colum {
+        padding: 0 5px;
+    }
+    .our-impact-growth-results .results-colum h3 {
+        font-size: 24px;
+    }
+    .our-impact-growth-results .results-colum span {
+        font-size: 16px;
+        line-height: 20.9px;
+    }
+    .growth-patners-left-content {
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .growth-patners-right-logos {
+        padding-left: 0px;
+        width: 100%;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .client-testimonials-slider .client-testimonials-item .client-testimonials-content {
+        padding: 20px 20px;
+        width: 100%;
+    }
+    .client-testimonials-slider .client-testimonials-item {
+        flex-direction: column;
+    }
+    .client-testimonials-slider .client-testimonials-item .client-testimonials-img {
+        width: 100%;
+        border-radius: 0px 0px 40px 40px;
+    }
+    .awards-recognition-section .awards-recognition-row {
+        margin: 0;
+    }
+    .awards-recognition-section .awards-recognition-colum {
+        width:100%;
+        padding: 0;
+        
+    }
+    .awards-recognition-section .awards-recognition-colum:not(:last-child) {
+        margin-bottom: 30px;
+    } 
+    .our-services-section .our-services-row .our-services-left-colum {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner.ppc-box .our-services-box {
+        transform: translateY(0);
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner.whatsapp-marketing-box .our-services-box {
+        transform: translateY(0);
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner {
+        width: 100%;
+    }
+    .our-services-section .our-services-row .our-services-left-colum .our-services-inner.ppc-box .our-services-box, .our-services-section .our-services-row .our-services-left-colum .our-services-inner.whatsapp-marketing-box .our-services-box {
+        width: 100%;
+    }
+}
